@@ -1,5 +1,6 @@
 ---
 title: "Ronaldinho"
+layout: post
 tags:
   - brazil
 ---
