@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 lang: en-US
 title: Football Freaks
 email:
@@ -22,8 +23,8 @@ url: "https://footballfreaks.info"
 author:
   name: freak
   twitter: freaks
-  picture:  #
-twitter_username:
+  picture: #
+twitter_username: 
 github_username: footballfreaks
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
