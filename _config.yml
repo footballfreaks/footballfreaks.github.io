@@ -16,9 +16,9 @@ baseurl:
 url: "https://footballfreaks.info/"
 # repository: "footballfreaks/footballfreaks.github.io"
 # author:
-  name: freak
-  twitter: footballfreaks
-  picture: #
+  # name: freak
+  # twitter: footballfreaks
+  # picture: #
 # twitter_username: Towlette_Pettetucci
 github_username: footballfreaks
 # logo: /assets/icons/basically-basic-logo-light.svg
