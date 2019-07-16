@@ -15,7 +15,7 @@ description: ""
 baseurl: 
 url: "https://footballfreaks.info/"
 #repository: "footballfreaks/footballfreaks.github.io"
-#author:
+# author:
   name: freak
   twitter: footballfreaks
   picture: #
