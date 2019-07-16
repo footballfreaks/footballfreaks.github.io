@@ -11,7 +11,7 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 lang: en-US
 title: Football Freaks
 email: 
-description: ""
+description:
 baseurl: 
 url: "https://footballfreaks.info/"
 #repository: "footballfreaks/footballfreaks.github.io"
