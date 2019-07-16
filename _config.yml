@@ -11,11 +11,11 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 lang: en-US
 title: Football Freaks
 email: 
-description: "Your new default Jekyll theme"
+description: ""
 baseurl: 
 url: "https://footballfreaks.info/"
-repository: "footballfreaks/footballfreaks.github.io"
-author:
+#repository: "footballfreaks/footballfreaks.github.io"
+#author:
   name: freak
   twitter: footballfreaks
   picture: #
