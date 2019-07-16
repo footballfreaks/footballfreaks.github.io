@@ -14,16 +14,16 @@ email:
 description:
 baseurl: 
 url: "https://footballfreaks.info/"
-#repository: "footballfreaks/footballfreaks.github.io"
+# repository: "footballfreaks/footballfreaks.github.io"
 # author:
   name: freak
   twitter: footballfreaks
   picture: #
-#twitter_username: Towlette_Pettetucci
+# twitter_username: Towlette_Pettetucci
 github_username: footballfreaks
-#logo: /assets/icons/basically-basic-logo-light.svg
-#google_analytics: 
-#disqus:
+# logo: /assets/icons/basically-basic-logo-light.svg
+# google_analytics: 
+# disqus:
  # shortname: basically-basic-theme
 search: true
 search_full_content: true
