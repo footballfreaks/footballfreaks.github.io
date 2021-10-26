@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Zinedine Yazid Zidane (born 23 June 1972), popularly known as Zizou, is a French former professional football player who played as an attacking midfielder. He most recently coached Real Madrid and is one of the most successful coaches in the world. Also widely regarded as one of the greatest players of all time. Zidane was an elite playmaker renowned for his elegance, vision, passing, ball control, and technique. He received many individual accolades as a player, including being named FIFA World Player of the Year in 1998, 2000 and 2003, and winning the 1998 Ballon d'Or.
 
